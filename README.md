@@ -16,8 +16,7 @@ Hey!,       I'm a Passionate BTech student and a web developer. I'm all about cr
   </ul>
 <!--icons and links-->
 <p align="left">
-<a href="https://www.linkedin.com/in/pavan-kumar-372642227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>   <a href="https://www.instagram.com/ravann.ai?igsh=OGU0MmVlOWVjOQ=="><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="50" width="50" /></a>
-
+<a href="https://www.linkedin.com/in/pavan-kumar-372642227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>   <a href="https://www.instagram.com/ravann.ai?igsh=OGU0MmVlOWVjOQ=="><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="50" width="50" /></a>  <a href="<a href="https://www.youtube.com/@pavanntech/featured"><img align="center" src="https://w7.pngwing.com/pngs/963/811/png-transparent-youtube-logo-youtube-red-logo-computer-icons-youtube-television-angle-rectangle.png" alt="instagram" height="50" width="50" /></a>"><img align="center" src="" alt="instagram" height="50" width="50" /></a>
 </p>
 </div>
 
