@@ -58,6 +58,4 @@ Hey!,       I'm a Passionate BTech student and a web developer. I'm all about cr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar7078" alt="kumar7078" /> </p>
 
-<img align="center" src="https://camo.githubusercontent.com/314152f103e5feffa953874078ea4e09734526c1b4616bc16857289645020637/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616d6974736861726d61373330302673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="kumar7078" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kumar7078&show_icons=true&locale=en" style="max-width: 100%;">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumar7078&show_icons=true&theme=transparent)
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumar7078&show_icons=true&theme=transparent)
