@@ -9,7 +9,8 @@ Hey!,       I'm a Passionate BTech student and a web developer. I'm all about cr
 - 🎓 &nbsp; I’m currently student of Vision Institute of technology Aligarh form Computer science Department.
 - 🌱 &nbsp; Learning more about Artificial intelligence, Machine learning and Web Development .
 - 🔭 I’m currently working on Techmate
--🌱 I’m currently learning React.js,Node.js and bootstrap
+
+🌱 I’m currently learning React.js,Node.js and bootstrap
 - 👯 I’m looking to collaborate on Techmates
 - 💌 &nbsp; How to reach me pr.kumar7078@gmail.com
 <!-- Connect with me -->
