@@ -57,3 +57,5 @@ Hey!,       I'm a Passionate BTech student and a web developer. I'm all about cr
 ### ✨ Visitors
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar7078" alt="kumar7078" /> </p>
+
+<img align="center" src="https://camo.githubusercontent.com/314152f……7473686…" alt="kumar7078" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kumar7078&show_icons=true&locale=en" style="max-width: 100%;">
